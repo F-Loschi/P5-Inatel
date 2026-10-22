@@ -1,0 +1,14 @@
+----------- Exercício 1 -------------------
+Cliente(IdCleinte(PK), PreNome, SobreNome)
+
+TelefoneCliente(IdCleinte(PK)(FK), Telefone(PK))
+
+DVD(IdDVD(PK), IdCliente(FK), IdFilme(FK))
+
+Categoria(IdCat(PK), NomeCat)
+
+Filme(IdFilme(PK), Titulo, IdCat(FK))
+
+Estrela(IdAtor(PK)(FK), IdFilme(PK)(FK))
+
+Ator(IdAtor(PK), NomeAtor, DataNasc)

@@ -1,0 +1,11 @@
+Cozinheiros(idCozinheiro[PK], nome, email, senha)
+
+Ingredientes(idIngrediente[PK], nome)
+
+Estoque(ingredientes_idIngredientes[PK, FK], cozinheiros_idCozinheiros[PK,FK], quantidade)
+
+DescricaoReceita(idDescricao[PK], foto, detalhes, nomeAutor)
+
+Receitas(idReceita[PK], nome, descricaoReceita[FK],)
+
+Composicoes(receita_idReceita[PK, FK],ingrediente_idIngrediente[PK, FK], quantidade)

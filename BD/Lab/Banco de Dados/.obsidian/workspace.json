@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "3eeaa8ff36d5bea3",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e2bdde065880501",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7feec3e4b0bd7729",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aula/Capitulo 4 - pt.2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Capitulo 4 - pt.2"
+            }
+          },
+          {
+            "id": "a67e050c62e31112",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aula/Capitulo 4 - pt.1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Capitulo 4 - pt.1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "593700c5c338cab6",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8b525845b3b628d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd061c04393216f6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "d7c9fb6c5c255df3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "a8bac7250752f876",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "a4d81f4b648eba45",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d5d838b28951509",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9969f9d22f5be8d2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Criação de tabelas e modelos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Criação de tabelas e modelos"
+            }
+          },
+          {
+            "id": "06d1c8d8087c70be",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Criação de tabelas e modelos.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Criação de tabelas e modelos"
+            }
+          },
+          {
+            "id": "c7ca708d1ebd8248",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b41322e01a85f008",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Criação de tabelas e modelos.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Criação de tabelas e modelos"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "7feec3e4b0bd7729",
+  "lastOpenFiles": [
+    "Aula/Capitulo 4 - pt.1.md",
+    "Aula/Capitulo 4 - pt.2.md",
+    "Aula/Capitulo 2.md",
+    "Aula/Capitulo.md",
+    "Aula/Capitulo 3.md",
+    "Pasted image 20250423182923.png",
+    "Pasted image 20250423145649.png",
+    "Pasted image 20250423145428.png",
+    "Pasted image 20250423145108.png",
+    "Pasted image 20250423145025.png",
+    "Pasted image 20250423144317.png",
+    "Pasted image 20250423143503.png",
+    "Pasted image 20250423142619.png",
+    "Aula/Resumo.md",
+    "Lab/Criação de tabelas e modelos.md",
+    "Lab/Comandos básicos.md",
+    "Berçario.jpg",
+    "Relacionamento.jpg",
+    "Aula/Capitulo 1.md",
+    "Aula",
+    "Lab",
+    "desktop.ini"
+  ]
+}

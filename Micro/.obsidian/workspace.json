@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "fccc53a6a2af16d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "45e88e847a64dd96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "795ed99eb54119fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Contador_Temporizador/Temporizador.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Temporizador"
+            }
+          },
+          {
+            "id": "337fe4ff99cf6904",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PWM - Pulse Width Modulation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PWM - Pulse Width Modulation"
+            }
+          },
+          {
+            "id": "5122623481d1081a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resumo 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Resumo 2"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3aeb2318ee451fa8",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac941b95a3372e73",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bce855afffa8e8ee",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "101f143cf095a3b8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1729c74d500043e5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "428c5e841f2d6b10",
+    "type": "split",
+    "children": [
+      {
+        "id": "f23cfb96431169ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2c63ddc9a99ccf7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Resumo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Resumo"
+            }
+          },
+          {
+            "id": "64e0ca3d7d6f28ce",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Aula 5/Aula.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Aula"
+            }
+          },
+          {
+            "id": "60de9eeca3c3750f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "10899a27b66b1af9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Resumo.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Resumo"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "5122623481d1081a",
+  "lastOpenFiles": [
+    "PWM - Pulse Width Modulation.md",
+    "Resumo 2.md",
+    "Contador_Temporizador/Temporizador.md",
+    "Contador_Temporizador/Excalidraw/Drawing 2025-04-24 16.03.34.excalidraw.md",
+    "Contador_Temporizador/Excalidraw",
+    "Resumo.md",
+    "Contador_Temporizador",
+    "Interrupção/PCINT.md",
+    "Interrupção/Excalidraw/Drawing 2025-03-27 15.54.52.excalidraw.md",
+    "Interrupção/Interrupção.md",
+    "Interrupção/Excalidraw",
+    "Aula 6/Drawing 2025-03-13 15.44.34.excalidraw.md",
+    "Interrupção",
+    "Aula 6/Aula.md",
+    "Aula 5/Excalidraw/Exemplos.excalidraw.md",
+    "Aula 6",
+    "Aula 5/Aula.md",
+    "Aula 5/Untitled.md",
+    "Welcome.md",
+    "Aula 5/Excalidraw",
+    "Untitled.canvas",
+    "Aula 5"
+  ]
+}

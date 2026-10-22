@@ -1,0 +1,10 @@
+- Dispara a INT. na mudança de nível lógico no pino pcint
+- Baixa prioridade
+- Apenas 1 pcint por portal poderá ser ativado
+- PCICR:
+	- Indica a int(portal) habilitada
+	- PCIE2
+	- PCIE1
+	- PCIE0
+- PCMSK:
+	- Indica o pino de PCINT

@@ -1,0 +1,5 @@
+----------- Exercício 2 ----------------
+
+Correntista(IdCliente(PK), nome, telefone)
+
+Conta_Corrente(IdContaCorrente(PK), saldo, IdCliente(PK)(FK))
